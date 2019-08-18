@@ -1,0 +1,162 @@
+/*
+.logo {
+  margin-bottom: 10px;
+}
+
+body {
+  margin: 10px;
+  padding: 10px;
+}
+
+.selected {
+  border: 5px solid #EC1919;
+  padding: 5px;
+}
+
+.green {
+  color: #057F13;
+}
+
+.red{
+	color: red;
+}
+
+.blue{
+	color: blue;
+}
+
+
+ul{
+	background-color: darkgray;
+	padding: 10px;
+	list-style-type: none;
+	border-radius: 10px;
+}
+
+.orange{
+	background-color: orange;
+}
+
+.focus{
+	border: 2px solid #1565C0;
+	box-shadow: 0px 1px 25px #64B5F6;
+}
+
+form{
+	padding: 20px;
+	background-color: aquamarine;
+	border-radius: 10px;
+}
+
+span{
+	color: #fff;
+	font-family: monospace;
+}
+
+*/
+
+/*
+button{
+	margin: 10px;
+}
+
+#testBox{
+	margin: 20px auto;
+	width: 500px;
+	height: 200px;
+	background-color: green;
+}
+*/
+
+body, container{
+	margin: 0;
+	padding: 0;
+	font-family: 'Comfortaa', cursive;
+}
+
+video{
+	width: 100%;
+}
+
+.container{
+	width: 80%;
+	margin: 0 auto;
+	text-align: center;
+	font-family: 'Comfortaa', cursive;
+}
+img{
+	width: 100%;
+}
+form{
+	font-family: 'Comfortaa', cursive;
+}
+
+.colorsSelectors{
+	display: inline-flex;
+	justify-content: center;
+	width: 100%;
+}
+
+.colorItem{
+	border-radius: 100%;
+	width: 50px;
+	height: 50px;
+	margin: 10px;
+}
+.colorBlack{
+	background-color: black;
+}
+
+.colorEmerald{
+	background-color: darkslategray;
+}
+
+.colorBrown{
+	background-color: saddlebrown;
+}
+
+.colorGrey{
+	background-color: grey;
+}
+
+.colorWhite{
+	background-color: white;
+	border: 1px solid grey;
+}
+
+.colorPearl{
+	background-color: azure;
+}
+
+.box{
+	border: 5px solid #6c757d;
+	border-radius: 10px;
+}
+
+.box div{
+	margin-bottom: 10px;
+	
+}
+.modelName{
+	font-size: 35px;
+}
+
+.modelPrice{
+	font-size: 25px;
+}
+.button{
+	background-color: grey;
+	width: fit-content;
+	margin: 0 auto;
+	color: #fff;
+	padding: 10px 20px;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+
+
+
+
+
+
